@@ -212,7 +212,7 @@ lib/
 ![실시간 대시보드](images/dashboard-live.jpg)
 
 ### 서버 성능 데이터
-![서버 모니터링](images/server-monitoring-6h.jpg)
+![서버 모니터링](images/erver-monitoring-6h.jpg)
 
 ---
 
