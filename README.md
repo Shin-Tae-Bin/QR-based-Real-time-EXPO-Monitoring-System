@@ -127,6 +127,8 @@ lib/
 ├── widgets/
 │   ├── custom_app_bar.dart         # 앱바 컴포넌트
 │   └── user_type_selector.dart     # 사용자 유형 선택
+├── main.dart
+├── expo-backend.php
 └── services/
     └── api_service.dart            # API 통신 서비스
 ```
