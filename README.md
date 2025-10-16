@@ -209,10 +209,10 @@ lib/
 
 *첨부된 이미지들을 통해 실제 대시보드 모니터링 현황과 서버 성능 데이터를 확인할 수 있습니다.*
 ### 대시보드 모니터링 현황
-![대시보드 모니터링](images/경복대 현황판.jpg)
+![실시간 대시보드](images/dashboard-live.jpg)
 
 ### 서버 성능 데이터
-![서버 성능](images/서버 트래픽.png)
+![서버 모니터링](images/server-monitoring-6h.jpg)
 
 ---
 
